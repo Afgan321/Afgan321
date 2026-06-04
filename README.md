@@ -6,10 +6,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Afgan321/Afgan321/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Afgan321/Afgan321/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Afgan321&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=Afgan321&theme=dark&hide_border=false" />
+  <br><br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Afgan321&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ###
 <p align="center">
@@ -40,14 +43,6 @@
   </a>
   <a href="https://www.instagram.com/me_rulll25/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Afgan Siagi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Afgan%20Siagi&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
